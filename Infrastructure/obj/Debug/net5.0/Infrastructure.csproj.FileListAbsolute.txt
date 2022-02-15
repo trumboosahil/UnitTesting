@@ -1,0 +1,15 @@
+C:\Git\TDD_Unittesting\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Git\TDD_Unittesting\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Git\TDD_Unittesting\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Git\TDD_Unittesting\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Git\TDD_Unittesting\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Git\TDD_Unittesting\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Git\TDD_Unittesting\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
